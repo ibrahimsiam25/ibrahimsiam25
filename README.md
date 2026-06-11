@@ -31,7 +31,7 @@
 | 👤 **Name** | Ibrahim Fathy Ibrahim Siam |
 | 💼 **Title** | Mobile Software Engineer |
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
-| 🍎 **Focus** | iOS · Android · Flutter |
+| 🍎 **Focus** | iOS · Android ·  Cross-Platform |
 | 🚀 **Shipped** | 4 apps on App Store · Google Play · Huawei |
 | 🏛️ **ITI** | Mobile Applications Development — 972 hrs (2025–2026) |
 | 🎓 **University** | Computer & Systems Engineering — Zagazig University |
