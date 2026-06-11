@@ -33,7 +33,7 @@
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
 | 🍎 **Focus** | iOS · Android ·  Cross-Platform |
 | 🚀 **Shipped** | 4 apps on App Store · Google Play · Huawei |
-| 🏛️ **ITI** | Mobile Applications Development — 972 hrs (2025–2026) |
+| 🏛️ **ITI** | Mobile Applications Development — 9-Month Professional Diploma) |
 | 🎓 **University** | Computer & Systems Engineering — Zagazig University |
 | 🏅 **Graduation Project** | Next Gen Edu — Grade: Excellent |
 | 📫 **Email** | ebrahimfathy2822@gmail.com |
