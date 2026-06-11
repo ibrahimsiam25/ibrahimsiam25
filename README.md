@@ -118,6 +118,16 @@ E-commerce app for a cleaning products store — fast delivery & smooth shopping
 <tr>
 <td width="50%">
 
+**🩺 One Care — Live on 3 Stores**
+Healthcare WebView app delivering a seamless mobile experience
+
+`Flutter` `Dart` `WebView`
+
+[![App Store](https://img.shields.io/badge/App%20Store-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/one-care/id6754661145) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.medipex.one_care) [![Huawei](https://img.shields.io/badge/Huawei-CF0A2C?style=flat&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C115477023)
+
+</td>
+<td width="50%">
+
 **🌍 Next Gen Edu** — *Graduation Project (Excellent)*
 Educational platform with real-time chat, quizzes, assignments & campus map
 
@@ -126,10 +136,10 @@ Educational platform with real-time chat, quizzes, assignments & campus map
 [→ GitHub](https://github.com/ibrahimsiam25/grad_project_edu)
 
 </td>
-<td width="50%">
-</td>
 </tr>
 </table>
+
+---
 
 ---
 
