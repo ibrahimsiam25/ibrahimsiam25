@@ -45,8 +45,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🍎 iOS Projects
 
 <table>
