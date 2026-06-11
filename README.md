@@ -139,8 +139,6 @@ Educational platform with real-time chat, quizzes, assignments & campus map
 
 ---
 
----
-
 ### 🤖 Android Projects
 
 <table>
