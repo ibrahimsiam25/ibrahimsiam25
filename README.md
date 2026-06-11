@@ -33,7 +33,7 @@
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
 | 🍎 **Focus** | iOS · Android ·  Cross-Platform |
 | 🚀 **Shipped** | 4 apps on App Store · Google Play · Huawei |
-| 🏛️ **ITI** | Mobile Applications Development — 9-Month Professional Diploma) |
+| 🏛️ **ITI** | Mobile Applications Development (Native) — 9-Month Professional Diploma |
 | 🎓 **University** | Computer & Systems Engineering — Zagazig University |
 | 🏅 **Graduation Project** | Next Gen Edu — Grade: Excellent |
 | 📫 **Email** | ebrahimfathy2822@gmail.com |
@@ -42,6 +42,8 @@
 </div>
 
 ---
+
+## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -62,7 +64,7 @@ Multi-sport aggregator — Football, Basketball, Cricket, Tennis
 <td width="50%">
 
 **☀️ WeatherCast**
-Dynamic weather app with time-based UI & multi-location
+Dynamic weather app with time-based UI & multi-location support
 
 `Swift` `SwiftUI` `MVVM` `Swinject` `WeatherAPI`
 
@@ -82,17 +84,54 @@ To-Do app with states, priorities & local notifications
 
 </td>
 <td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+### 💙 Flutter Projects
+
+<table>
+<tr>
+<td width="50%">
 
 **🏥 iVita — Live on 3 Stores**
-Healthcare platform — consultations, lab tests, e-commerce
+Healthcare platform — consultations, lab tests, appointment scheduling & e-commerce
 
-`Flutter` `BLoC` `Clean Arch` `Firebase`
+`Flutter` `Dart` `BLoC` `Clean Arch` `RESTful API` `Firebase`
 
 [![App Store](https://img.shields.io/badge/App%20Store-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ivita/id6757005668) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ivistasa.app) [![Huawei](https://img.shields.io/badge/Huawei-CF0A2C?style=flat&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C113305875)
 
 </td>
+<td width="50%">
+
+**🧴 Tahour — Live on 3 Stores**
+E-commerce app for a cleaning products store — fast delivery & smooth shopping experience
+
+`Flutter` `Dart` `BLoC` `Clean Arch` `RESTful API`
+
+[![App Store](https://img.shields.io/badge/App%20Store-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tahour/id6759517107) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.naqlaSehia.tahour) [![Huawei](https://img.shields.io/badge/Huawei-CF0A2C?style=flat&logo=huawei&logoColor=white)](https://appgallery.cloud.huawei.com/ag/n/app/C116955581)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌍 Next Gen Edu** — *Graduation Project (Excellent)*
+Educational platform with real-time chat, quizzes, assignments & campus map
+
+`Flutter` `Dart` `BLoC` `RESTful API`
+
+[→ GitHub](https://github.com/ibrahimsiam25/grad_project_edu)
+
+</td>
+<td width="50%">
+</td>
 </tr>
 </table>
+
+---
 
 ### 🤖 Android Projects
 
@@ -101,7 +140,7 @@ Healthcare platform — consultations, lab tests, e-commerce
 <td width="50%">
 
 **🌤️ Sky — Weather App**
-Localized EN/AR weather with real-time forecasts & alerts
+Localized EN/AR weather with real-time forecasts, maps & automated alerts
 
 `Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `Room` `WorkManager` `Koin` `Google Maps`
 
@@ -121,6 +160,8 @@ Meal discovery & scheduling with offline caching & video tutorials
 </tr>
 </table>
 
+---
+
 ### ☕ Other Projects
 
 <table>
@@ -128,7 +169,7 @@ Meal discovery & scheduling with offline caching & video tutorials
 <td width="50%">
 
 **🎮 Tic-Tac-Toe Desktop Game**
-Single-player, local & online multiplayer with match recording
+Single-player, local & online multiplayer with match recording & user authentication
 
 `Java` `JavaFX` `MySQL` `Client-Server Architecture`
 
@@ -137,18 +178,19 @@ Single-player, local & online multiplayer with match recording
 </td>
 <td width="50%">
 
-**🌍 Next Gen Edu** — *Graduation Project (Excellent)*
-Educational platform with real-time chat, quizzes & assignments
+**⚡ IoT & Flutter**
+Real-time IoT dashboard controlling LED, fan & potentiometer via ESP8266 with voice command support
 
-`Flutter` `BLoC` `RESTful API`
+`Flutter` `Firebase` `ESP8266` `BLoC` `Speech-to-Text`
 
-[→ GitHub](https://github.com/ibrahimsiam25/grad_project_edu)
+[→ GitHub](https://github.com/ibrahimsiam25/iot_and_flutter) · [→ Demo](https://youtu.be/clm8f4J9870)
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
