@@ -32,7 +32,7 @@
 | 💼 **Title** | Mobile Software Engineer |
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
 | 🍎 **Focus** | iOS · Android ·  Cross-Platform |
-| 🚀 **Shipped** | 4 apps on App Store · Google Play · Huawei |
+| 🚀 **Shipped** | +10 apps on App Store · Google Play · Huawei |
 | 🏛️ **ITI** | Mobile Applications Development (Native) — 9-Month Professional Diploma |
 | 🎓 **University** | Computer & Systems Engineering — Zagazig University |
 | 🏅 **Graduation Project** | Next Gen Edu — Grade: Excellent |
